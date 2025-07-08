@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yusuf Bayraktar</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #121212; /* Koyu arka plan */
+      color: white;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    h1 {
+      font-size: 3rem;
+      font-weight: 700;
+    }
+  </style>
+</head>
+<body>
+  <h1>Yusuf Bayraktar</h1>
+</body>
+</html>
